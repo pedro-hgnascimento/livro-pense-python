@@ -9,4 +9,6 @@ Repositório criado para registrar minha jornada de aprendizado de Python atrav�
 
 ## Meu Progresso
 - [x] Capítulo 1: A Jornada do Programa
-- [ ] Capítulo 2:
+- [x] Capítulo 2: Variáveis, expressões e instruções
+- [x] Funções
+- [ ] Estudo de caso: projeto de interface
